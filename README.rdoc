@@ -3,5 +3,10 @@
 This is a Todo Rails app that was created while learning Ruby and RoR framework.
 
 To run this app in your local machine execute following command.
-git clone 
+git clone https://github.com/guruprasad1/todo.git 
+
+Change the Database configuration from config/database.yml
+
+And then run the application by following command 
+rails s
 
